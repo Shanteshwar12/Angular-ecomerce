@@ -1,0 +1,153 @@
+{
+  "seller": [
+    { "id": 2, "name": "kunal birajdar", "email": "kunal@user.com", "password": "abc@123" },
+    { "id": 3, "name": "peter", "email": "peter@test.com", "password": "abc@123" },
+    { "id": 4, "name": "bruce", "email": "bruce@test.com", "password": "abc@123" }
+  ],
+
+  "users": [
+    { "id": 1, "name": "anil", "email": "anil@user.com", "password": "abc123" },
+    { "id": 2, "name": "peter", "email": "peter@user.com", "password": "abc123" },
+    { "id": 3, "name": "demo user", "email": "demo@test.com", "password": "abc123" }
+  ],
+
+  "products": [
+    {
+      "id": 1,
+      "name": "Samsung Galaxy M40",
+      "price": "15500",
+      "category": "Mobile",
+      "color": "White",
+      "description": "Samsung smartphone with powerful battery",
+      "image": "https://www.pricepony.com.ph/blog/wp-content/uploads/2019/06/Samsung2.jpg"
+    },
+    {
+      "id": 2,
+      "name": "iPhone 14",
+      "price": "79999",
+      "category": "Mobile",
+      "color": "Black",
+      "description": "Apple iPhone with A15 Bionic chip",
+      "image": "https://m.media-amazon.com/images/I/61bK6PMOC3L._SL1500_.jpg"
+    },
+    {
+      "id": 3,
+      "name": "HP Pavilion Laptop",
+      "price": "58999",
+      "category": "Laptop",
+      "color": "Silver",
+      "description": "Laptop for students and professionals",
+      "image": "https://m.media-amazon.com/images/I/71ZDY57yTQL._SL1500_.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Dell Inspiron 15",
+      "price": "62999",
+      "category": "Laptop",
+      "color": "Black",
+      "description": "Office and coding laptop",
+      "image": "https://m.media-amazon.com/images/I/71S8U9VzLTL._SL1500_.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Sony Bravia 43\" 4K TV",
+      "price": "45999",
+      "category": "TV",
+      "color": "Black",
+      "description": "Ultra HD Smart Android TV",
+      "image": "https://m.media-amazon.com/images/I/81wxS8abrgL._SL1500_.jpg"
+    },
+    {
+      "id": 6,
+      "name": "LG 32\" Smart TV",
+      "price": "24999",
+      "category": "TV",
+      "color": "Black",
+      "description": "Compact smart TV with WebOS",
+      "image": "https://cdn1.smartprix.com/rx-ik1Y2Owtp-w1200-h1200/lg-32lh604t-32-inch.jpg"
+    },
+    {
+      "id": 7,
+      "name": "boAt Airdopes 141",
+      "price": "1499",
+      "category": "Audio",
+      "color": "Black",
+      "description": "Wireless earbuds with fast charging",
+      "image": "https://m.media-amazon.com/images/I/61goypdjAYL._SL1500_.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Sony WH-1000XM4",
+      "price": "21999",
+      "category": "Audio",
+      "color": "Black",
+      "description": "Noise cancelling wireless headphones",
+      "image": "https://m.media-amazon.com/images/I/71o8Q5XJS5L._SL1500_.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Samsung Galaxy Watch 4",
+      "price": "13999",
+      "category": "Wearables",
+      "color": "Black",
+      "description": "Health tracking smartwatch",
+      "image": "https://m.media-amazon.com/images/I/61ZjlBOp+rL._SL1500_.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Noise ColorFit Pro 4",
+      "price": "3499",
+      "category": "Wearables",
+      "color": "Blue",
+      "description": "AMOLED smartwatch with fitness tracking",
+      "image": "https://day-technology.com/wp-content/uploads/2023/01/2098-1-Noise-ColorFit-Pro-4-GPS-Smartwatch.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Logitech MX Master 3",
+      "price": "8999",
+      "category": "Accessories",
+      "color": "Gray",
+      "description": "Advanced wireless mouse",
+      "image": "https://m.media-amazon.com/images/I/61ni3t1ryQL._SL1500_.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Samsung 1TB SSD",
+      "price": "7999",
+      "category": "Accessories",
+      "color": "Black",
+      "description": "High-speed external SSD storage",
+      "image": "https://i5.walmartimages.com/seo/SAMSUNG-T7-Portable-SSD-1TB-Titan-Gray-Up-to-1-050MB-s-USB-3-2-Gen2-MU-PC1T0T-AM_14b26ddc-a119-4530-9351-6398c3f049c3.5df65dabc10ab4b24444a0086e7fce22.jpeg"
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "userId": 1,
+      "productId": 6,
+      "name": "LG 32\" Smart TV",
+      "price": "24999",
+      "quantity": 2,
+      "image": "https://cdn1.smartprix.com/rx-ik1Y2Owtp-w1200-h1200/lg-32lh604t-32-inch.jpg"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "productId": 4,
+      "name": "Dell Inspiron 15",
+      "price": "62999",
+      "quantity": 1,
+      "image": "https://m.media-amazon.com/images/I/71S8U9VzLTL._SL1500_.jpg"
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "productId": 3,
+      "name": "HP Pavilion Laptop",
+      "price": "58999",
+      "quantity": 1,
+      "image": "https://m.media-amazon.com/images/I/71ZDY57yTQL._SL1500_.jpg"
+    }
+  ]
+}
