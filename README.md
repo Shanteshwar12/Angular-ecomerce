@@ -1,27 +1,78 @@
-# EcommProject
+# 🛒 E-Commerce Web Application
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
+An e-commerce frontend application developed using **Angular 14**, TypeScript, HTML5, and CSS3. The project demonstrates component-based development, responsive UI design, and core shopping application functionality.
 
-## Development server
+## 🚀 Features
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- Product listing and product details
+- Product search and category filtering
+- Shopping cart management
+- Reusable Angular components
+- Angular routing and navigation
+- Responsive user interface
+- Service-based data sharing
 
-## Code scaffolding
+*Include only the features implemented in your project.*
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 🛠️ Tech Stack
 
-## Build
+- **Framework:** Angular 14
+- **Language:** TypeScript, JavaScript
+- **Frontend:** HTML5, CSS3
+- **Tools:** Angular CLI, Visual Studio Code, Git, GitHub
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## ⚙️ Installation and Setup
 
-## Running unit tests
+1. Clone the repository:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+   ```bash
+   git clone YOUR_GITHUB_REPOSITORY_URL
+   ```
 
-## Running end-to-end tests
+2. Navigate to the project directory:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+   ```bash
+   cd EcommProject
+   ```
 
-## Further help
+3. Install dependencies:
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   ng serve
+   ```
+
+5. Open `http://localhost:4200/` in your browser.
+
+## 🏗️ Build
+
+Run the following command to build the application:
+
+```bash
+ng build
+```
+
+The build output is generated in the `dist/` directory.
+
+## 🧪 Testing
+
+Run unit tests using:
+
+```bash
+ng test
+```
+
+## 👨‍💻 Developer
+
+**Shanteshwar Birajdar**  
+Angular Developer | Frontend Developer
+- [LinkedIn Profile](https://www.linkedin.com/in/shanteshwar-birajdar-677151434/)
+
+---
+
+⭐ If you find this project useful, feel free to explore the repository.
